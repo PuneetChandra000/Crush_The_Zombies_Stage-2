@@ -1,1 +1,2 @@
-# Crush_The_Zombies_Stage-2
+# zombie-crush-assets
+assests for crush the zombie game
